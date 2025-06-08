@@ -64,6 +64,7 @@ This project demonstrated how a multi-metric approach—blending acquisition, mo
 ## 🚀 Author
 
 **Alessandra Bielli**
+
 Data Analyst | Marketing and Behavioral Scientist 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/alessandrabielli) or [GitHub](https://github.com/abielli2020).
 
