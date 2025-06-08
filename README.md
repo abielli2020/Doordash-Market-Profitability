@@ -4,12 +4,6 @@
 
 This repository contains the project files for the **DoorDash Market Analysis**, a simulation based on a real business case used in the DoorDash Strategy & Operations team. The goal of the project is to evaluate the performance of five markets using key business metrics and provide strategic recommendations based on data-driven insights.
 
-## 📁 Repository Structure
-├── Excel_Workbook/ # Contains data and project prompt
-│ └── Market_Performance.xlsx # Includes market data, performance metrics, and business questions
-├── SQL_Queries/ # Contains SQL scripts used for deeper operational insights
-└── README.md # This file
-
 ## 📌 Project Details
 
 ### 🎯 Objective
