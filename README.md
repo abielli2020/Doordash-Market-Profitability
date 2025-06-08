@@ -70,7 +70,7 @@ git clone https://github.com/abielli2020/DoorDash-Market-Profitability.git
 
 ------------------------------------------------------------------------
 
-## 🧠 Author
+## 🚀 Author
 
 **Alessandra Bielli**\
 Data Analyst | Marketing and Behavioral Scientist 
