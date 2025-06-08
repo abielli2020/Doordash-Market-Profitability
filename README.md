@@ -61,18 +61,9 @@ This project demonstrated how a multi-metric approach—blending acquisition, mo
 - **SQL**: Operational analysis, metrics querying, and decision support  
 - **Skills Demonstrated**: Strategic thinking, data storytelling, market evaluation, and performance optimization
 
-## 🚀 Usage
-
-Clone the repository:
-
-```bash
-git clone https://github.com/abielli2020/DoorDash-Market-Profitability.git
-
-------------------------------------------------------------------------
-
 ## 🚀 Author
 
-**Alessandra Bielli**\
+**Alessandra Bielli**
 Data Analyst | Marketing and Behavioral Scientist 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/alessandrabielli) or [GitHub](https://github.com/abielli2020).
 
